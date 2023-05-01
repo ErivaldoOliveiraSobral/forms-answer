@@ -11,6 +11,8 @@ const links = [
     'https://docs.google.com/forms/d/e/1FAIpQLSfb5kvk1NwKAVPlXDQMkNr8JUB1QvIL22p3MqmN8pxev2XS4w/viewform?usp=pp_url&entry.1446850708=Solteiro&entry.510349640=Masculino&entry.526458741=Entre+25+e+30+anos&entry.199606220=1+a+2+pessoas&entry.1781971279=Vila+Nova+Manchester&entry.225322375=R$+1000,00+a+R$2000,00&entry.2114588769=Entre+3+e+5+vezes+por+m%C3%AAs&entry.959509100=Outros&entry.1121028172=Mais+amargos&entry.1954384170=R$+50,00+a+R$100,00&entry.2094003389=Bolo&entry.939647203=Chocolate&entry.939647203=Baunilha&entry.1688632088=Doces+e+bolos&entry.1931695204=Sim&entry.668764101=4&entry.510438686=3&entry.873538007=2&entry.148840665=4&entry.1134690430=Sim&entry.725695063=Sim,+com+pouca+frequ%C3%AAncia&entry.413721833=Sim&entry.1064381666=Sim,+com+pouca+frequ%C3%AAncia&entry.1850763297=N%C3%A3o&entry.129793038=N%C3%A3o,+nunca+fiz&entry.1679513297=A%C3%A7a%C3%AD&entry.676903208=Bom&entry.1821941048=4&entry.373625497=3&entry.816555968=3&entry.1429377447=4&entry.800239900=3&entry.2063168945=Pre%C3%A7o&entry.2063168945=Conforto&entry.2063168945=Localiza%C3%A7%C3%A3o&entry.12182032=4&entry.313935487=4'
 ];
 
+// https://docs.google.com/forms/d/1JILEXVgH4GuqT2ke1NUYKQgBA300DdGtbImwTw-_Afs/prefill
+
 fixture`Bot de respostas`
 
 let count = 0
