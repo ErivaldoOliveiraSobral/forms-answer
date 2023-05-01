@@ -1,0 +1,15 @@
+{
+  "name": "poc-testcafe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "testcafe chrome src/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "testcafe": "^2.5.1-rc.1"
+  }
+}
